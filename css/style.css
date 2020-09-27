@@ -1,5 +1,5 @@
 .bg-black {background-color: black;}
 html{ scroll-behavior: smooth; scroll-padding-top: 6rem;}
-.header-section{border-bottom:  1px solid lightgray; z-index: 25;width:100%;position: fixed;}
+.header-section{border-bottom:  1px solid rgba(255,255,255,.1);z-index: 25;width:100%;position: fixed;}
 .contact-section {background-image: url(../images/bgimg1.jpg);background-size:cover;background-repeat: no-repeat;}*/
 .contact-section{ background-color: #505050d4;}
