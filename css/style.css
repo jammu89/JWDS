@@ -6,5 +6,11 @@ html{ scroll-behavior: smooth; scroll-padding-top: 6rem;}
 #home { padding-top:3.25rem;padding-bottom: 3.25rem;}
 .abt-sub-h{ padding-top:2rem;margin-bottom: 1rem;}
 #tool-tec-h{color:#0d5a1f;margin-bottom: 1.25rem;}
+.serv-sec-container { padding-right: 10%;padding-left: 10%;}
+
+
+@media (max-width: 576px) { 
+    .mob-bgimg{height:30vh}
+ }
 
 
