@@ -8,7 +8,7 @@ html{ scroll-behavior: smooth; scroll-padding-top: 6rem;}
 #tool-tec-h{color:#0d5a1f;margin-bottom: 1.25rem;}
 .serv-sec-container { padding-right: 10%;padding-left: 10%;}
 .serv-sec-modal {background-color: rgba(255,255,255,.01);border:1px solid rgba(255,255,255,.1);border-radius: 0.75rem;}
-
+.cfs{ font-size: 1rem;color:darkorange;}
 @media (max-width: 576px) { 
     .mob-bgimg{height:30vh}
  }
