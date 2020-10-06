@@ -1,11 +1,13 @@
 .bg-black {background-color: black;}
 html{ scroll-behavior: smooth; scroll-padding-top: 6rem;}
 .header-section{border-bottom:  1px solid rgba(255,255,255,.1);z-index: 25;width:100%;position: fixed;}
+.nav-item-hov:hover {background-color: rgb(26 41 56 / 0.4); }
 .contact-section {background-image: url(../images/bgimg1.jpg);background-size:cover;background-repeat: no-repeat;}*/
 .contact-section{ background-color: #505050d4;}
 #home { padding-top:3.25rem;padding-bottom: 3.25rem;}
 .abt-sub-h{ padding-top:2rem;margin-bottom: 1rem;}
 #tool-tec-h{color:#0d5a1f;margin-bottom: 1.25rem;}
+.services-section{padding-bottom: 3.25rem;}
 .serv-sec-container { padding-right: 10%;padding-left: 10%;}
 .serv-sec-modal {background-color: rgba(255,255,255,.01);border:1px solid rgba(255,255,255,.1);border-radius: 0.75rem;}
 .cfs{ font-size: 1rem;color:darkorange;margin-top: 1rem;}
