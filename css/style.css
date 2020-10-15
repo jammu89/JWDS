@@ -6,6 +6,7 @@ html{ scroll-behavior: smooth; scroll-padding-top: 6rem;}
 .contact-section{ background-color: #505050d4;}
 #home { padding-top:3.25rem;padding-bottom: 3.25rem;}
 .abt-sub-h{ padding-top:2rem;margin-bottom: 1rem;}
+.content-text-color{ color:#818999;}
 #tool-tec-h{color:#0d5a1f;margin-bottom: 1.25rem;}
 .services-section{padding-bottom: 3.25rem;}
 .serv-sec-container { padding-right: 10%;padding-left: 10%;}
